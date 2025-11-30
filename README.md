@@ -22,8 +22,7 @@ The aim of this project was to **calculate and visualise vendace habitat** durin
 - Workflow documentation: integration of R analysis with QGIS and Photoshop for visualisation  
 
 ## ⚠️ Note
-The code in this repository was developed specifically for the thesis and served as the basis for examination.  
-A more generalised R package was planned for release in summer 2023 to make the functions reusable beyond this project.
+The code in this repository was developed specifically for the thesis and served as the basis for examination.
 
 ## 🎓 Context
 Developed as part of my BSc thesis in Bioscience at the University of Skövde, with a focus on aquatic ecology and habitat modelling.
